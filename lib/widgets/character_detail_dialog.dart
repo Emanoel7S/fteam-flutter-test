@@ -32,7 +32,7 @@ class CharacterDetailDialog extends StatelessWidget {
               const SizedBox(width: 8),
               Text('Status: ${character.status}'),
               Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 6.0), // Applies 20 pixels of padding to the left and right
+                padding: const EdgeInsets.symmetric(horizontal: 6.0),
                 child: iconStatus(character.status),
               ),
 

@@ -1,6 +1,6 @@
 
 # Rick and Morty Flutter App
-
+![Listagem de personagens](docs/images/Screenshot.png)
 ## Sobre o projeto
 
 Este é um projeto simples em Flutter para consumo da API pública do Rick and Morty (https://rickandmortyapi.com/). Ele exibe uma lista paginada de personagens com informações básicas e detalhes ao clicar em cada um.
