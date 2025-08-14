@@ -66,12 +66,12 @@ O projeto segue o padrão **MVVM (Model-View-ViewModel)**:
 
 1. Clone o repositório:  
 ```bash
-git clone <URL-do-repo>
+git clone https://github.com/Emanoel7S/fteam-flutter-test
 ```
 
 2. Acesse a pasta do projeto:  
 ```bash
-cd nome-do-projeto
+cd fteam-flutter-test
 ```
 
 3. Instale as dependências:  
